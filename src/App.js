@@ -6,7 +6,7 @@ import { useState } from "react";
 
 const App = () => {
 
-const [text, setText] = useState("0");
+const [text, setText] = useState("");
 const [result, setResult] = useState("0");
 
 const addToText =(val) => {
