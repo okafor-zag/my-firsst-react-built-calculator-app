@@ -49,7 +49,7 @@ const calculateResult = () => {
         </div>
         <div className="row">
           <Button symbol="0" handleClick={addToText}/>
-          <Button symbol="'" handleClick={addToText}/>
+          <Button symbol="." handleClick={addToText}/>
           <Button symbol="="  handleClick={calculateResult}/>
           <Button symbol="-" color = {buttonColor} handleClick={addToText} />
         </div>
