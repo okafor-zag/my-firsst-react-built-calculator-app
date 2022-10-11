@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-firsst-react-built-calculator-app/static/css/main.3914f6b7.css",
-    "main.js": "/my-firsst-react-built-calculator-app/static/js/main.a41f6a41.js",
+    "main.js": "/my-firsst-react-built-calculator-app/static/js/main.866a07ea.js",
     "index.html": "/my-firsst-react-built-calculator-app/index.html",
     "main.3914f6b7.css.map": "/my-firsst-react-built-calculator-app/static/css/main.3914f6b7.css.map",
-    "main.a41f6a41.js.map": "/my-firsst-react-built-calculator-app/static/js/main.a41f6a41.js.map"
+    "main.866a07ea.js.map": "/my-firsst-react-built-calculator-app/static/js/main.866a07ea.js.map"
   },
   "entrypoints": [
     "static/css/main.3914f6b7.css",
-    "static/js/main.a41f6a41.js"
+    "static/js/main.866a07ea.js"
   ]
 }
